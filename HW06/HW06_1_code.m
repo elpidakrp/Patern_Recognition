@@ -34,7 +34,7 @@ figure(1), plot(X1(1,y1==1),X1(2,y1==1),'ro',...
     X1(1,y1==-1),X1(2,y1==-1),'b+')
 figure(1), axis equal
 % Note that the vectors of the training set from class 1 (?1) are marked by
-% "oî (ì+î). 
+% "o‚Äù (‚Äú+‚Äù). 
 
 % Plot the decision boundary in the same figure
 bou_x=[-5 5];
